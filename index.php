@@ -11,7 +11,7 @@
   // echo "</pre>";
 
   // while ($row = mysqli_fetch_assoc($result)) {   
-    
+    // MESSAGE: Code for testing only
   //   echo "id: ".$row["id"] . "<br>";
   //   echo "Name: ".$row["name"] . "<br>";
   //   echo "Email: ".$row["email"] . "<br>";
